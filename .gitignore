@@ -1,0 +1,9 @@
+/korben-dns-relay
+/korben-dns-relay.exe
+/dist/
+*.pem
+*.key
+*.hex
+*.log
+.env
+.DS_Store
